@@ -16,14 +16,7 @@ Chrome Extension, TypeScript and Visual Studio Code
 
 * TypeScript
 * Webpack
-* React
 * ESLint
-* Example Code
-    * Chrome Storage
-    * Options Version 2
-    * content script
-    * count up badge number
-    * background
 
 ## Project Structure
 
