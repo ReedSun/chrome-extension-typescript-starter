@@ -27,7 +27,7 @@
             "type": "shell",
             "group": "build",
             "command": "yarn",
-            "args": ["watch"]
+            "args": ["dev"]
         }
     ]
 }

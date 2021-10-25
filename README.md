@@ -53,12 +53,12 @@ npm build
 ### terminal
 
 ```
-yarn watch
+yarn dev
 ```
 
 ### Visual Studio Code
 
-Run watch mode.
+Run dev mode.
 
 type `Ctrl + Shift + B`
 
