@@ -17,12 +17,6 @@
             "args": ["update"]
         },
         {
-            "label": "test",
-            "type": "shell",
-            "command": "yarn",
-            "args": ["test"]
-        },
-        {
             "label": "build",
             "type": "shell",
             "group": "build",

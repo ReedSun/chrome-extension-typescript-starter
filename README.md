@@ -17,7 +17,6 @@ Chrome Extension, TypeScript and Visual Studio Code
 * TypeScript
 * Webpack
 * React
-* Jest
 * ESLint
 * Example Code
     * Chrome Storage
@@ -66,6 +65,3 @@ type `Ctrl + Shift + B`
 ## Load extension to chrome
 
 Load `dist` directory
-
-## Test
-`npx jest` or `npm run test`
