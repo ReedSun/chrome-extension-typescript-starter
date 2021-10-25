@@ -56,3 +56,7 @@ type `Ctrl + Shift + B`
 ## Load extension to chrome
 
 Load `dist` directory
+
+# React Version
+
+see [React version](/tree/react)
