@@ -59,4 +59,4 @@ Load `dist` directory
 
 # React Version
 
-see [React version](/tree/react)
+see [React version](https://github.com/ReedSun/chrome-extension-typescript-starter/tree/React)
