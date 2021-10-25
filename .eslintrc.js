@@ -4,7 +4,7 @@
  * File Created: Saturday, 2021-10-16 15:40:55
  * Author: ReedSun (reedsun@shanjing-inc.com)
  * -----
- * Last Modified: Monday, 2021-10-25 14:31:55
+ * Last Modified: Monday, 2021-10-25 15:45:06
  * Modified By: ReedSun (reedsun@shanjing-inc.com)
  * -----
  * Copyright 2013 - 2021, Qingdao Shanjing Information Technology Co., Ltd.
@@ -46,6 +46,7 @@ module.exports = {
         },
       },
     ],
+    'no-console': 2,
     'object-shorthand': 2,
     'prefer-template': 2,
     'sort-keys': 2,

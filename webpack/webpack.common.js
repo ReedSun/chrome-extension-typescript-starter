@@ -3,8 +3,6 @@ const CopyPlugin = require('copy-webpack-plugin');
 const ESLintPlugin = require('eslint-webpack-plugin');
 const srcDir = path.join(__dirname, '..', 'src');
 
-console.log(ESLintPlugin);
-
 module.exports = {
   entry: {
     background: path.join(srcDir, 'background.ts'),
