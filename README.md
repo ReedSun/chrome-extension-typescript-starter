@@ -35,7 +35,7 @@ Chrome Extension, TypeScript and Visual Studio Code
 ## Setup
 
 ```
-npm install
+yarn
 ```
 
 ## Import as Visual Studio Code project
@@ -45,15 +45,15 @@ npm install
 ## Build
 
 ```
-npm run build
+npm build
 ```
 
-## Build in watch mode
+## Build in dev mode
 
 ### terminal
 
 ```
-npm run watch
+yarn watch
 ```
 
 ### Visual Studio Code
