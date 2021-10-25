@@ -6,7 +6,7 @@ Chrome Extension, TypeScript and Visual Studio Code
 
 ## Prerequisites
 
-* [node + npm](https://nodejs.org/) (Current Version)
+* [node + yarn](https://nodejs.org/) (Current Version)
 
 ## Option
 
@@ -45,7 +45,7 @@ yarn
 ## Build
 
 ```
-npm build
+yarn build
 ```
 
 ## Build in dev mode
