@@ -18,6 +18,7 @@ Chrome Extension, TypeScript and Visual Studio Code
 * Webpack
 * React
 * Jest
+* ESLint
 * Example Code
     * Chrome Storage
     * Options Version 2
