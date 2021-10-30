@@ -6,7 +6,8 @@
             "fileMatch": [
                 "/manifest.json"
             ],
-            "url": "http://json.schemastore.org/chrome-manifest"
+            // https://github.com/extend-chrome/manifest-json-schema/blob/main/schema/manifest-v3.schema.json
+            "url": "./.vscode/manifest.schemas.json"
         }
     ]
 }
